@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e58761e4fc39d973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Valorant is my favorite bad game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "4f05cd199bf2f5ac",
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Character Series/C0/Amy, The Eye.md",
+                "file": "Valorant is my favorite bad game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Character Series/C0/Amy, The Eye.md",
+                "file": "Valorant is my favorite bad game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Character Series/C0/Amy, The Eye.md"
+                "file": "Valorant is my favorite bad game.md"
               }
             }
           }
@@ -178,8 +190,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a22914e3b8c68c49",
+  "active": "e58761e4fc39d973",
   "lastOpenFiles": [
+    "Valorant is my favorite bad game.md",
+    "Core Design/About Cards/Character Cards.md",
     "Card Set Ideas/Archetypes Set 1.md",
     "Cards/Character Series/C0/Amy, The Eye.md",
     "Card Set Ideas/Archetypes Set 2.md",
@@ -189,7 +203,6 @@
     "Cards/Character Series/C0/Natalie, The Gambler.md",
     "Cards/Character Series/C0/Ren, The Enigma.md",
     "Cards/Character Series/C0/Samantha, The Virtuoso.md",
-    "Core Design/About Cards/Character Cards.md",
     "Cards/Master Lists/Fate/F0. Saffron.md",
     "Business Considerations/The Roadmap/Release of Documentation.md",
     "Official Rules/Gameplay.md",
@@ -210,7 +223,6 @@
     "Playtest/Feedback.md",
     "Official Rules/Standard Duel Setup.md",
     "Core Design/Initiator's Advantage.md",
-    "Core Design/About Cards/Fate Cards.md",
     "Playtest/Feedback",
     "Playtest",
     "The Game",
