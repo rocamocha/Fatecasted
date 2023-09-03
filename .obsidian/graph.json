@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Core Design\"",
+      "color": {
+        "a": 1,
+        "rgb": 12213854
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.7078125,
+  "lineSizeMultiplier": 3.13697916666667,
+  "collapse-forces": false,
+  "centerStrength": 0.494791666666667,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 167,
+  "scale": 0.6780252644037268,
+  "close": true
+}

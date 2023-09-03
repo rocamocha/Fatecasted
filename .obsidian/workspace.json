@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "2a47b3fe13b1f0e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d76ecaf81afef0bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94268df328c0ae80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Design/About Cards/Character Cards.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5b27ae60d068da5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/Character Series/C0/Amy, The Eye.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4f05cd199bf2f5ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "876cd1592877480d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/Character Series/C0/Ren, The Enigma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a5babf477bc4dad",
+    "type": "split",
+    "children": [
+      {
+        "id": "33467aa455ed6056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a22914e3b8c68c49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c031e71a4962646",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "destiny",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58dd439fb6d1d80b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5086555480957
+  },
+  "right": {
+    "id": "5b7461177ea4cb72",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eb6aef8cdc4237b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4eba7982ccfd1dfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cards/Character Series/C0/Amy, The Eye.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3dd2536fad692d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cards/Character Series/C0/Amy, The Eye.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa05848595bb2580",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc8ec600b935ed17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cards/Character Series/C0/Amy, The Eye.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a22914e3b8c68c49",
+  "lastOpenFiles": [
+    "Card Set Ideas/Archetypes Set 1.md",
+    "Cards/Character Series/C0/Amy, The Eye.md",
+    "Card Set Ideas/Archetypes Set 2.md",
+    "Cards/Character Series/C0/Christina, The Prodigy.md",
+    "Cards/Character Series/C0/Jennifer, The Pulse.md",
+    "Cards/Character Series/C0/Leslie, The Mark.md",
+    "Cards/Character Series/C0/Natalie, The Gambler.md",
+    "Cards/Character Series/C0/Ren, The Enigma.md",
+    "Cards/Character Series/C0/Samantha, The Virtuoso.md",
+    "Core Design/About Cards/Character Cards.md",
+    "Cards/Master Lists/Fate/F0. Saffron.md",
+    "Business Considerations/The Roadmap/Release of Documentation.md",
+    "Official Rules/Gameplay.md",
+    "Business Considerations/Marketing & Product/Mobile Application.md",
+    "Cards/Master Lists/Character/C0.md",
+    "Cards/Master Lists/Character/C1.md",
+    "Cards/Master Lists/Fate",
+    "Cards/Master Lists/Untitled.md",
+    "Cards/Master Lists/Character",
+    "Cards/Master Lists",
+    "Business Considerations/The Roadmap/The Roadmap.md",
+    "Business Considerations/The Roadmap/Non-Profit ❌.md",
+    "Business Considerations/Revenue Stream/Limited Affiliation & Revenue Share.md",
+    "Business Considerations/Marketing & Product/Packaging.md",
+    "Business Considerations/The Roadmap/Before Going Public.md",
+    "Cards/Character Series/C1",
+    "Cards/Character Series/C2",
+    "Playtest/Feedback.md",
+    "Official Rules/Standard Duel Setup.md",
+    "Core Design/Initiator's Advantage.md",
+    "Core Design/About Cards/Fate Cards.md",
+    "Playtest/Feedback",
+    "Playtest",
+    "The Game",
+    "Business Considerations",
+    "Business Considerations/Revenue Stream",
+    "play_area.png",
+    "play_area_visualization.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
