@@ -1,17 +1,16 @@
-> [!tip] Attributes
+> [!note] Attributes
 > - RARITY : 
 > - TYPE :
 
-> [!question] Possibilities:
-> - 
+> [!abilities]
+>>[!ability]
 
-> [!question] Destiny Ideas
-> - 
+> [!destiny]
+>>[!ability]
 
 ---
 
 # Design Philosophy
-...
 
-> [!tip] Role Potential
-> - 
+> [!idea] Role Potential
+>

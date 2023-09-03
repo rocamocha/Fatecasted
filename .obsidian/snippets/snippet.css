@@ -1,0 +1,23 @@
+.callout[data-callout="passive"] {
+    --callout-color: 255, 255, 255;
+    --callout-icon: lucide-refresh-cw;
+}
+
+.callout[data-callout="ability"] {
+    --callout-color: 255, 255, 255;
+    --callout-icon: lucide-scroll;
+}
+.callout[data-callout="destiny"] {
+    --callout-color: 255, 200, 12;
+    --callout-icon: lucide-gem;
+}
+
+.callout[data-callout="abilities"] {
+    --callout-color: 200, 100, 255;
+    --callout-icon: lucide-book;
+}
+
+.callout[data-callout="idea"] {
+    --callout-color: 220, 150, 100;
+    --callout-icon: lucide-lightbulb;
+}
