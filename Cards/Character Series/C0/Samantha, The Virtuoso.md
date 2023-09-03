@@ -1,18 +1,19 @@
-> [!tip] Attributes
+> [!note] Attributes
 > - RARITY : 4
 > - TYPE :
 
-> [!question] Possibilities:
->>[!tip] AMM : 0
->>Assign damage equal to the total number of reinforcement on this character and the characters adjacent to it.
+> [!abilities]
+>>[!ability] AA : 0
+>>Assign X damage where X is the total reinforcement of this character.
 
-> [!question] Destiny Ideas
-> - 
+> [!destiny]
+>>[!ability] AAM : 0
+>>Assign X damage where X is the total reinforcement of allied characters.
 
 ---
 
 # Design Philosophy
 Provides burst damage.
 
-> [!tip] Role Potential
-> - 
+> [!idea] Role Potential
+>

@@ -8,47 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94268df328c0ae80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Design/About Cards/Character Cards.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e5b27ae60d068da5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Character Series/C0/Amy, The Eye.md",
-                "mode": "source",
-                "source": false
+                "file": "Cards/Character Series/C0/Leslie, The Mark.md",
+                "mode": "preview",
+                "source": true
               }
-            }
+            },
+            "group": "93e1eb7699aa5e82"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "4f05cd199bf2f5ac",
+        "id": "61ff88363ef0739a",
         "type": "tabs",
         "children": [
           {
-            "id": "876cd1592877480d",
+            "id": "ded68d544baa8c4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Character Series/C0/Ren, The Enigma.md",
+                "file": "Cards/Character Series/C0/Leslie, The Mark.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
-            }
+            },
+            "group": "93e1eb7699aa5e82"
           }
         ]
       }
@@ -116,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Character Series/C0/Amy, The Eye.md",
+                "file": "Cards/Character Series/C0/Leslie, The Mark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Character Series/C0/Amy, The Eye.md",
+                "file": "Cards/Character Series/C0/Leslie, The Mark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Character Series/C0/Amy, The Eye.md"
+                "file": "Cards/Character Series/C0/Leslie, The Mark.md"
               }
             }
           }
@@ -178,44 +167,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a22914e3b8c68c49",
+  "active": "ded68d544baa8c4b",
   "lastOpenFiles": [
-    "Card Set Ideas/Archetypes Set 1.md",
-    "Cards/Character Series/C0/Amy, The Eye.md",
-    "Card Set Ideas/Archetypes Set 2.md",
-    "Cards/Character Series/C0/Christina, The Prodigy.md",
     "Cards/Character Series/C0/Jennifer, The Pulse.md",
-    "Cards/Character Series/C0/Leslie, The Mark.md",
-    "Cards/Character Series/C0/Natalie, The Gambler.md",
-    "Cards/Character Series/C0/Ren, The Enigma.md",
+    "Cards/Character Series/C0/Christina, The Prodigy.md",
+    "Cards/Character Series/C0/Amy, The Eye.md",
     "Cards/Character Series/C0/Samantha, The Virtuoso.md",
+    "Cards/Master Lists/Character/C0.md",
+    "Cards/Master Lists/Character/C1.md",
+    "Templates/Character Card.md",
+    "Cards/Character Series/C0/Ren, The Enigma.md",
+    "Cards/Character Series/C0/Natalie, The Gambler.md",
+    "Cards/Character Series/C0/Leslie, The Mark.md",
+    "_assets/sparkles.svg",
+    "_assets/sparkles.svg.opdownload",
+    "_assets",
+    "New folder",
+    "package-lock.json",
+    "package.json",
+    "node_modules/lucide/dist/lucide.d.ts",
+    "node_modules/lucide/README.md",
+    "node_modules/lucide/dist/esm/icons/zoom-out.js.map",
+    "node_modules/lucide/dist/esm/icons/zoom-in.js.map",
+    "node_modules/lucide/dist/esm/icons/zap.js.map",
+    "node_modules/lucide/dist/esm/icons/zap-off.js.map",
     "Core Design/About Cards/Character Cards.md",
+    "Card Set Ideas/Archetypes Set 1.md",
+    "Card Set Ideas/Archetypes Set 2.md",
     "Cards/Master Lists/Fate/F0. Saffron.md",
     "Business Considerations/The Roadmap/Release of Documentation.md",
     "Official Rules/Gameplay.md",
     "Business Considerations/Marketing & Product/Mobile Application.md",
-    "Cards/Master Lists/Character/C0.md",
-    "Cards/Master Lists/Character/C1.md",
-    "Cards/Master Lists/Fate",
     "Cards/Master Lists/Untitled.md",
-    "Cards/Master Lists/Character",
-    "Cards/Master Lists",
     "Business Considerations/The Roadmap/The Roadmap.md",
     "Business Considerations/The Roadmap/Non-Profit ❌.md",
     "Business Considerations/Revenue Stream/Limited Affiliation & Revenue Share.md",
     "Business Considerations/Marketing & Product/Packaging.md",
     "Business Considerations/The Roadmap/Before Going Public.md",
-    "Cards/Character Series/C1",
-    "Cards/Character Series/C2",
     "Playtest/Feedback.md",
     "Official Rules/Standard Duel Setup.md",
-    "Core Design/Initiator's Advantage.md",
-    "Core Design/About Cards/Fate Cards.md",
-    "Playtest/Feedback",
-    "Playtest",
-    "The Game",
-    "Business Considerations",
-    "Business Considerations/Revenue Stream",
     "play_area.png",
     "play_area_visualization.png",
     "Untitled 1.canvas",

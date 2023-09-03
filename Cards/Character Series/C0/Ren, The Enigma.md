@@ -1,12 +1,12 @@
-> [!tip] Attributes
+> [!note] Attributes
 > - RARITY : 2
 > - TYPE :
 
-> [!question] Possibilities:
->>[!tip] Passive
+> [!abilities]
+>>[!passive]
 >>When the opponent channels X, you may reinforce X or assign X damage.
 
-> [!question] Destiny Ideas
+> [!destiny]
 >
 
 ---
@@ -14,5 +14,5 @@
 # Design Philosophy
 ...
 
-> [!tip] Role Potential
-> - 
+> [!idea] Role Potential
+>
