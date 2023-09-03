@@ -8,6 +8,10 @@
 >4. [[#Prophecy]]
 >5. [[#Action]]
 >6. [[#End]]
+# Choose your fates!
+>[!success] Before play begins, each player will choose fates from their fate pool to seed each of their fatelines.
+---
+# The Flow of Battle
 ## Summon
 >[!caution] [[Character Cards#Summoning]]
 
@@ -30,7 +34,7 @@ After the dice have been rolled, they are now considered in-play.
 The initiator may stack a single Fate.
 All players who are not the initiator may seed up to two Fates after the initiator stacks or declines.
 
-> [!tip] Core concepts when designing and balancing around Fate:
+> [!idea] Core concepts when designing and balancing around Fate:
 > [[Fate Cards#Core Concepts#Fate as a Variable]]
 > [[Fate Cards#Core Concepts#Preparation or Initiative?]]
 > [[Fate Cards#Core Concepts#Balancing Philosophy]]
@@ -43,16 +47,16 @@ All players choose cards from their fate pool to move into their hand until they
 ## Action
 (1) The initiator can declare the use of a basic action or ability during the action phase.
 
-> [!success]+ Basic Actions 
+> [!abilities]+ Basic Actions 
 > All available basic actions:
 > > [!tip] Attack
-> > Consume X amount of (A)ttack dice to assign X damage.
+> > Consume `X` amount of (A)ttack dice to assign `X` damage.
 >
 > > [!tip] Reinforce
-> > Consume X amount of (D)efense dice to reinforce for X.
+> > Consume `X` amount of (D)efense dice to reinforce for `X`.
 >
 > > [!tip] Channel
-> > Consume X amount of (M)agic dice to gain X [[Crystal Charges|crystal charges]].
+> > Consume `X` amount of (M)agic dice to gain `X` [[Crystal Charges|crystal charges]].
 >
 > > [!tip] Trigger Fateline
 > > Reveal a seeded Fateline and resolve it's effects. 
