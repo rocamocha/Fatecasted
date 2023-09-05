@@ -4,10 +4,12 @@
 
 > [!abilities]
 >>[!passive]
->>When the opponent channels X, you may reinforce X or assign X damage.
+>>When the opponent channels `X`, you may reinforce `X` or assign `X-1` damage.
 
 > [!destiny]
->
+>>[!Passive]
+>>When the opponent channels `X`, gain `X` [[Crystal Charges|crystal charge]].
+>>
 
 ---
 

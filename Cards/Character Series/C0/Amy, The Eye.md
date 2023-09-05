@@ -1,14 +1,16 @@
-> [!note] Attributes
-> - RARITY : 4
-> - TYPE :
+>[!rarity] 4
+
+>[!ctype] [[Character Types#Mystic|Mystic]]
+
+>[!breakpoint] 3
 
 > [!abilities]
->>[!ability] DM : 0
->>Your opponent chooses one seeded fateline to reveal.
+>>[!ability] MM : X
+>>Your opponent chooses one seeded fateline to reveal. If `X` crystal charge was paid as an activation cost, you may trigger the revealed fate at stack level `X-1`.
 
 > [!destiny]
->>[!ability] MM : 0
->>Your opponent chooses one fate to unstack or unseed. 
+>>[!passive]
+>>Choose one of your opponent's fatelines. That fateline is revealed as long as this character is unbroken. When you are the initiator, you may pay `X` crystal charge to trigger that fateline as if it were your own at stack level `X-1`.
 
 ---
 
