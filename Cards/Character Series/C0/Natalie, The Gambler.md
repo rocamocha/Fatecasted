@@ -13,7 +13,7 @@
 >>[!passive]
 >>After the roll phase, you may reroll up to 2 dice.
 >
->>[!ability] M : 0
+>>[!ability]  : 1
 >>Target player rerolls.
 
 ---

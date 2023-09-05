@@ -71,6 +71,7 @@ All players choose cards from their fate pool to move into their hand until they
 >[!caution] About Fates & Fatelines
 >[[The Play Area#Fatelines]]
 >[[Fate Cards#Fateline Activation]]
+>[[Fate Cards#Crystallized Fates]]
 
 After the response is declared and the outcome is resolved or if no response is required / possible, repeat (1) until all dice are consumed or the initiator declares to end the phase.
 

@@ -1,4 +1,4 @@
-> [!tip]- Character cards are the main attraction of Fatecasted. The following important values are displayed on a character card...
+> [!tip]+ Character cards are the main attraction of Fatecasted. The following important values are displayed on a character card...
 >
 >
 > > [!info]+ Title
@@ -10,18 +10,7 @@
 > >[!info]+ Type
 > > Card type is meant to serve as a balancing mechanic, mainly to prevent certain cards from being able to be played in combination with each other. It is not yet fully understood which aspects of control should be limited through the restrictions around type yet.
 > >
-> > > [!tip]- List of all types...
-> > >1. Striker
-> > >2. Destroyer
-> > >3. Protector
-> > >4. Aegis
-> > >5. Guardian
-> > >6. Mystic
-> > >7. Magician
-> > >8. Wildcard
-> > >9. Traveler
-> > >10. Deity
-> > >11. Creator
+> > > [!idea] [[Character Types]]
 >
 > > [!info]+ Breakpoint
 > > The amount of damage needed to trigger a break on this character.
@@ -33,7 +22,7 @@
 > > 3. **REROLL** - *Luck manipulation.*
 > > 4. **UTILITY** - *Change formation, gain resources, etc.*
 > >
-> >Listed within the ability should be the cost in the format `X : Y`, where `X` is the dice cost required for activation, and `Y` is the amount of crystal needed for activation. Both requirements must be fulfilled to activate the corresponding ability.  
+> >Listed within the ability should be the cost in the format `X : Y`, where `X` is the dice cost required for activation, and `Y` is the amount of crystal charge needed for activation. Both requirements must be fulfilled to activate the corresponding ability.  
 >
 > > [!info]+ Destiny
 > > A character's "destiny" is represented by the backside of their card. Players will have the option to flip their character cards over to their destiny sides after meeting some sort of prerequisite. Possible requirements could include:
@@ -64,6 +53,10 @@ When an ability or fate *unbreaks* a broken character, that character is moved f
 
 >[!tip] I need healing!
 >When a character is *healed* so that the damage assignment is below their breakpoint, they are unbroken.
+
+---
+### Mark
+When a character is marked by an effect or ability, place the corresponding token on that character to track this status. When a mark is *consumed*, remove this token.
 
 ---
 # Core Concepts

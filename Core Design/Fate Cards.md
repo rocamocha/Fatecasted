@@ -14,6 +14,12 @@ Activating a Fateline is how the player triggers the effects listed on their Fat
 When activating an unstacked Fateline, flip that card to reveal it. Then, trigger the effect corresponding to [[#Stack Level]] 0.
 
 When activating a **stacked** Fateline, the cards in the stack are flipped together so that the Fate used to seed the Fateline is revealed on top. Trigger the effects of the top card which correspond to a Stack Level equal to or lower than the Fateline's [[#Stack Level]].
+
+---
+# Crystallized Fates
+A fate played from the hand is *crystallized.*
+
+To play a crystallized fate, the player must pay 1 [[Crystal Charges|crystal charge]]. If they cannot pay this cost, the card cannot be played.
 # Memories
 Memories are special fates that cannot stack. A Memory can be played anytime that the player is able to seed a fate. 
 

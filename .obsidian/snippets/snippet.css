@@ -5,11 +5,22 @@
 
 .callout[data-callout="ability"] {
     --callout-color: 255, 255, 255;
-    --callout-icon: lucide-scroll;
+    --callout-icon: <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sparkles"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"/><path d="M5 3v4"/><path d="M19 17v4"/><path d="M3 5h4"/><path d="M17 19h4"/></svg>;
 }
+
+.callout[data-callout="charge"] {
+    --callout-color: 255, 255, 255;
+    --callout-icon: lucide-gem;
+}
+
 .callout[data-callout="destiny"] {
     --callout-color: 255, 200, 12;
     --callout-icon: lucide-gem;
+}
+
+.callout[data-callout="rarity"] {
+    --callout-color: 255, 200, 12;
+    --callout-icon: lucide-star;
 }
 
 .callout[data-callout="abilities"] {
@@ -20,4 +31,25 @@
 .callout[data-callout="idea"] {
     --callout-color: 220, 150, 100;
     --callout-icon: lucide-lightbulb;
+}
+
+.callout[data-callout="fate"] {
+    --callout-color: 200, 100, 45;
+    --callout-icon: lucide-book;
+}
+
+.callout[data-callout="ctype"] {
+    --callout-color: 200, 100, 45;
+    --callout-icon: lucide-users;
+}
+
+/* character type */
+.callout[data-callout="ctype"] {
+    --callout-color: 200, 100, 45;
+    --callout-icon: lucide-users;
+}
+
+.callout[data-callout="breakpoint"] {
+    --callout-color: 255, 100, 100;
+    --callout-icon: lucide-heart;
 }

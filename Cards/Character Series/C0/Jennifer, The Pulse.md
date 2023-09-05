@@ -1,6 +1,8 @@
-> [!note] Attributes
-> - RARITY : 3
-> - TYPE :
+>[!rarity] 3
+
+>[!ctype] [[Character Types#Striker|Striker]]
+
+>[!breakpoint] 3
 
 > [!abilities] Abilities
 >>[!passive]

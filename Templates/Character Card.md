@@ -1,6 +1,8 @@
-> [!note] Attributes
-> - RARITY : 
-> - TYPE :
+>[!rarity]
+
+>[!ctype] Character Type
+
+>[!breakpoint]
 
 > [!abilities]
 >>[!ability]

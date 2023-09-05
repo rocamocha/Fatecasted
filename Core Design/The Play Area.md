@@ -20,8 +20,10 @@ The combined area of all players' play areas is referred to as the battlefield.
 # Fatelines
 Each player has 3 Fatelines.
 
-*Fate seeding* refers to playing a new fate into an empty fateline.
-
-*Fate stacking* refers to playing a fate into a non-empty fateline. Stacked fates are specific to the fateline onto which they were stacked.
-
 Only one fateline or card in hand may be triggered per action or response during the [[Gameplay#Action|Action]] phase.
+>[!caution] When stacking or seeding fates, the card is played face down.
+---
+### Fate Seeding
+*Fate seeding* refers to playing a fate card into an empty fateline.
+### Fate Stacking
+*Fate stacking* refers to playing a fate into a non-empty fateline. Stacked fates are specific to the fateline onto which they were stacked.

@@ -1,16 +1,25 @@
-> [!note] Attributes
-> - RARITY : 3
-> - TYPE :
+>[!rarity] 4
+
+>[!ctype] [[Character Types#Hunter|Hunter]]
+
+>[!breakpoint] 2
 
 > [!abilities]
->>[!ability] MM : 1
->>Choose one card in your opponent's hand to be set aside and revealed.
+>>[!ability] MM : 0
+>>Choose one of an opponent's non-reinforced characters to *mark.*
 >
 >>[!passive]
->>As long as there are cards in the area set aside by the above ability, the player cannot stack fates except when using those set aside.
+>> When a character marked by Leslie uses an ability, the mark is consumed and you gain 1 [[Crystal Charges|crystal charge]]
 
 > [!destiny] Destiny
+>>[!ability] MM : 0
+>>Choose one of an opponent's non-reinforced characters to *mark.*
 >
+>>[!ability] : 1
+>>Remove all reinforcement from a marked character.
+>
+>>[!passive]
+>> When a character marked by Leslie uses an ability, the mark is consumed and you gain 1 [[Crystal Charges|crystal charge]]
 
 ---
 

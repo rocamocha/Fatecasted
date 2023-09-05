@@ -1,20 +1,22 @@
-> [!note] Attributes
-> - RARITY : 5
-> - TYPE : MYSTIC
+>[!rarity] 5
+
+>[!ctype] [[Character Types#Mystic|Mystic]]
+
+>[!breakpoint] 4
 
 > [!abilities]
->>[!ability] MMM : 0
->>Assign damage equal to the number of fates in your opponent's fate area.
+>>[!ability] MM : 0
+>>Assign `X` damage, where `X` is the number of fates in your opponent's fate area.
 >
 >>[!ability] MM : 1
->>Reinforce X, where X is the number of fates in your opponent's fate area.
+>>Reinforce `X`, where `X` is the number of fates in your opponent's fate area.
 
 > [!destiny]
->>[!ability] AAA : 0
->>Assign damage equal to the number of crystal charges in your possession.
+>>[!ability] AA : 0
+>>Assign `X` damage, where `X` is the number of crystal charges in your possession.
 >
 >>[!ability] MM : 1
->>Reinforce X, where X is the number of fates in your fate area.
+>>Reinforce `X`, where `X` is the number of fates in your fate area.
 
 ---
 

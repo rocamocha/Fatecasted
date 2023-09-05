@@ -4,3 +4,5 @@
 >>[!ability] Stack Lv1
 >
 >>[!ability] Stack Lv2
+>
+>>[!charge]
