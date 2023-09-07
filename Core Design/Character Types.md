@@ -1,3 +1,9 @@
+---
+aliases:
+- type
+- types
+---
+
 # Striker
 # Destroyer
 # Hunter

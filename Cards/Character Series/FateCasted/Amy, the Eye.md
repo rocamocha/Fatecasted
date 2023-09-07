@@ -1,3 +1,8 @@
+---
+aliases:
+- C0xA
+---
+
 >[!rarity] 4
 
 >[!ctype] [[Character Types#Mystic|Mystic]]
@@ -6,7 +11,7 @@
 
 > [!abilities]
 >>[!ability] MM : X
->>Your opponent chooses one seeded fateline to reveal. If `X` crystal charge was paid as an activation cost, you may trigger the revealed fate at stack level `X-1`.
+>>Your opponent chooses one seeded [[The Play Area#Fatelines|fateline]] to reveal. If `X` crystal charge was paid as an activation cost, you may trigger the revealed fate at stack level `X-1`.
 
 > [!destiny]
 >>[!passive]

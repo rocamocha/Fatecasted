@@ -1,3 +1,9 @@
+---
+aliases:
+- character card
+- character cards
+---
+
 > [!tip]+ Character cards are the main attraction of Fatecasted. The following important values are displayed on a character card...
 >
 >
