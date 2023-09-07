@@ -1,3 +1,10 @@
+---
+aliases:
+- fateline
+- fatelines
+- Fatelines
+---
+
 Players should sit in a round table style alignment, so that each player can keep the cards in their hand hidden from every other player. When there are only 2 players, both players will sit across from each other.
 
 Each player should prepare a clear and flat area in front of them. This area is referred to as that player's play area.

@@ -1,6 +1,13 @@
-> [!note] Attributes
-> - RARITY : 2
-> - TYPE :
+---
+aliases:
+- C0xE
+---
+
+>[!rarity] 3
+
+>[!ctype] [[Character Types#Striker|Striker]]
+
+>[!breakpoint] 3
 
 > [!abilities]
 >>[!passive]

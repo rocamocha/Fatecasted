@@ -1,6 +1,13 @@
-> [!note] Attributes
-> - RARITY : 4
-> - TYPE :
+---
+aliases:
+- C0xN
+---
+
+>[!rarity] 4
+
+>[!ctype] [[Character Types#Wildcard|Wildcard]]
+
+>[!breakpoint] 3
 
 > [!abilities]
 >>[!passive] 
