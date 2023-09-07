@@ -2,11 +2,11 @@
 
 | Code | Card |
 |---|---|
-| C0xA | [[Amy, The Eye]] |
-| C0xB | [[Jennifer, The Pulse]] |
-| C0xC | [[Leslie, The Mark]] |
+| C0xA |  |
+| C0xB |  |
+| C0xC |  |
 | C0xD |  |
-| C0xE | [[Ren, The Enigma]] |
+| C0xE |  |
 | C0xF |  |
 | C0xG |  |
 | C0xH |  |
@@ -15,7 +15,7 @@
 | C0xK |  |
 | C0xL |  |
 | C0xM |  |
-| C0xN | [[Natalie, The Gambler]] |
+| C0xN |  |
 | C0xO | ❌ |
 | C0xP |  |
 | C0xQ | ❌ |
@@ -25,6 +25,6 @@
 | C0xU |  |
 | C0xV |  |
 | C0xW |  |
-| C0xX | [[Christina, The Prodigy]] |
-| C0xY | [[Samantha, The Virtuoso]] |
+| C0xX |  |
+| C0xY |  |
 | C0xZ |  |

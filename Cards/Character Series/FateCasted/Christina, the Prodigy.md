@@ -1,3 +1,8 @@
+---
+aliases:
+- C0xX
+---
+
 >[!rarity] 5
 
 >[!ctype] [[Character Types#Mystic|Mystic]]

@@ -8,6 +8,17 @@
 >4. [[#Prophecy]]
 >5. [[#Action]]
 >6. [[#End]]
+```mermaid
+flowchart TD
+    A[Summon]-->B[Roll]
+    B-->C[Fate]
+    C-->D[Prophecy]
+    D-->E[Action]
+    E-->|Opponent Targeted|F[Response]
+    F-->|Unused Dice?|E
+    E-->|End Phase| G[End Phase]
+    F-->|No Dice Remaining| G
+```
 # Choose your fates!
 >[!success] Before play begins, each player will choose fates from their fate pool to seed each of their fatelines.
 ---

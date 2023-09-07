@@ -1,3 +1,8 @@
+---
+aliases:
+- C0xB
+---
+
 >[!rarity] 3
 
 >[!ctype] [[Character Types#Striker|Striker]]
@@ -9,14 +14,14 @@
 >>Once per turn when an ability you activate deals damage, you may stack a fate.
 >
 >>[!passive]
->>Once per turn when you stack a fate, gain 1 crystal charge.
+>>Once per turn when you stack a fate, gain 1 [[Crystal Charges|crystal charge]].
 
 > [!destiny] Destiny
 >>[!passive]
 >>Once per turn when an ability you activate deals damage, you may stack or seed a fate.
 >
 >>[!passive]
->>Once per turn when you stack or seed a fate, gain 1 crystal charge.
+>>Once per turn when you stack or seed a fate, gain 1 [[Crystal Charges|crystal charge]].
 
 ---
 

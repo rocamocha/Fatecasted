@@ -1,6 +1,13 @@
-> [!note] Attributes
-> - RARITY : 4
-> - TYPE :
+---
+aliases:
+- C0xY
+---
+
+>[!rarity] 3
+
+>[!ctype] [[Character Types#Aegis|Aegis]]
+
+>[!breakpoint] 2
 
 > [!abilities]
 >>[!ability] AA : 0
@@ -13,7 +20,7 @@
 ---
 
 # Design Philosophy
-Provides burst damage.
+Provides burst damage scaling with defense.
 
 > [!idea] Role Potential
 >

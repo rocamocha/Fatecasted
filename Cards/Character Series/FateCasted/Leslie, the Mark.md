@@ -1,3 +1,8 @@
+---
+aliases:
+- C0xC
+---
+
 >[!rarity] 4
 
 >[!ctype] [[Character Types#Hunter|Hunter]]
