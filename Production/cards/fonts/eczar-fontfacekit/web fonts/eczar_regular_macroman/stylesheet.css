@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'eczarregular';
+    src: url('Eczar-Regular-webfont.eot');
+    src: url('Eczar-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Eczar-Regular-webfont.woff2') format('woff2'),
+         url('Eczar-Regular-webfont.woff') format('woff'),
+         url('Eczar-Regular-webfont.ttf') format('truetype'),
+         url('Eczar-Regular-webfont.svg#eczarregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

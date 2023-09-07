@@ -1,0 +1,1 @@
+When a character is marked by an effect or ability, place the corresponding token on that character to track this status. When a mark is *consumed*, remove this token.

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'eczarsemibold';
+    src: url('Eczar-SemiBold-webfont.eot');
+    src: url('Eczar-SemiBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Eczar-SemiBold-webfont.woff2') format('woff2'),
+         url('Eczar-SemiBold-webfont.woff') format('woff'),
+         url('Eczar-SemiBold-webfont.ttf') format('truetype'),
+         url('Eczar-SemiBold-webfont.svg#eczarsemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

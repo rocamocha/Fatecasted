@@ -1,0 +1,5 @@
+![[Simplicity of Choice and Deliberation]]
+![[Order of Events (The Stack... Not!)]]
+![[Options Through Resources]]
+![[The Specificity Paradox]]
+![[Initiator's Advantage]]

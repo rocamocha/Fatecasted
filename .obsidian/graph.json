@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "tag:#character/card OR path:\"Core Design/Character Types\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"type\":Striker] OR[\"type\":Destroyer]OR[\"type\":Hunter]",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "[\"type\":Mystic]OR[\"type\":Magician]OR[\"type\":Traveler]",
+      "color": {
+        "a": 1,
+        "rgb": 5562450
+      }
+    },
+    {
+      "query": "[\"type\":Protector] OR [\"type\":Aegis] OR [\"type\":Guardian]]",
+      "color": {
+        "a": 1,
+        "rgb": 2708735
+      }
+    },
+    {
+      "query": "[\"type\":Trickster] OR [\"type\":Wildcard]",
+      "color": {
+        "a": 1,
+        "rgb": 13193952
+      }
+    },
+    {
+      "query": "[\"type\":Deity] OR [\"type\":Creator]",
+      "color": {
+        "a": 1,
+        "rgb": 14731602
+      }
+    },
+    {
+      "query": "path:\"Core Design/Character Types\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4011060
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.85527272727273,
+  "lineSizeMultiplier": 2.99563636363636,
+  "collapse-forces": false,
+  "centerStrength": 0.742931354359926,
+  "repelStrength": 14.6686456400742,
+  "linkStrength": 0.543450834879406,
+  "linkDistance": 30,
+  "scale": 0.22157843323279905,
+  "close": true
+}

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'eczarbold';
+    src: url('Eczar-Bold-webfont.eot');
+    src: url('Eczar-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Eczar-Bold-webfont.woff2') format('woff2'),
+         url('Eczar-Bold-webfont.woff') format('woff'),
+         url('Eczar-Bold-webfont.ttf') format('truetype'),
+         url('Eczar-Bold-webfont.svg#eczarbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

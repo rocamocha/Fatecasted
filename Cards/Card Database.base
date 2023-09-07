@@ -1,0 +1,54 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.folder.contains("Cards")
+    - and:
+        - file.name != "Error"
+views:
+  - type: cards
+    name: All Cards
+    order:
+      - file.name
+      - type
+      - catalog
+      - code
+      - status
+    sort:
+      - property: file.folder
+        direction: ASC
+    columnSize:
+      note.catalog: 91
+      note.rarity: 68
+      note.breakpoint: 52
+    cardSize: 220
+    imageAspectRatio: 1.15
+  - type: table
+    name: Character
+    filters:
+      and:
+        - file.folder.contains("Character")
+    order:
+      - file.name
+      - catalog
+      - code
+      - type
+      - status
+    sort:
+      - property: status
+        direction: ASC
+    columnSize:
+      note.catalog: 102
+      note.type: 67
+  - type: table
+    name: Fate
+    filters:
+      and:
+        - file.folder.contains("Fate Series")
+    order:
+      - file.name
+      - catalog
+      - code
+      - status
+    sort:
+      - property: status
+        direction: ASC

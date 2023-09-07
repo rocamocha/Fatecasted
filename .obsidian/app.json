@@ -1,0 +1,17 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 90
+  },
+  "livePreview": false,
+  "readableLineLength": true,
+  "newFileLocation": "root",
+  "userIgnoreFilters": [
+    "Templates/",
+    "Exclude/"
+  ]
+}

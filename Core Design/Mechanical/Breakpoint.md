@@ -1,0 +1,1 @@
+A [[Character Cards|character's]] breakpoint is the [[Damage|damage]] required to trigger [[Break]] on that character.

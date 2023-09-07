@@ -1,0 +1,18 @@
+CODE	TITLE	RARITY	TYPE	BP	COST1	ABILITY1	COST2	ABILITY2	COST3	ABILITY3	END
+ALX	Alexander, the Shield	4	Guardian	5	P	Whenever `X` damage is assigned to another allied character, reinforce this character for `X-1`.	D : 1	Reassign up to 3 damage from a single allied character to this character.			
+AMY	Amy, the Eye	4	Mystic	3	MM : X	Your opponent chooses one seeded fateline to reveal. If `X` crystal charge was paid as an activation cost, you may activate the revealed fate as if it were your own at stack level `X-1`.					
+AUY	Audrey, the Siren	4	Creator	2	P	When you are not the initiator, you may pay 1 crystal charge to trigger a single fateline at the start of the Action phase.					
+CAS	Caius, the Heart	5	Protector	3	P	Target opponent gains maximum crystal charge when you Summon this character. When this opponent has 0 crystal charges, realize this character's destiny.	: 2	Target opponent discards 2 crystal charges.			
+CYL	Cheryl, the Thief	3	Trickster	3	A : 0	Steal 1 reinforcement from an opponent's character. You may also use 1 crystal charge to assign 1 damage to that target.					
+CHA	Zeta, the Chaos	5	Deity	1	P	This character is summoned with 3 reinforcement.	M : 1	Assign 2 damage to every character.	P	Whenever a fateline is triggered, if this character is:<br>- Unbroken, assign 1 damage.<br>- Broken, reinforce 1.	
+WLT	Wilt, the Usurper	5	Deity	4	P	Whenever triggering unbreak on this character, remove all damage assignment from a target opponent character. Gain that many crystal charges.					
+MCH	Sidney, the Merchant	5	Traveler	5	P	This character cannot be targeted by damage damage assignment directly from dice.	: 2	Swap this character's reinforcement with another allied character's reinforcement.			
+SAM	Samantha, the Virtuoso	3	Aegis	2	AA : 0	Assign `X` damage where `X` is the total reinforcement of this character.					
+REN	Ren, the Enigma	3	Striker	3	P	When the opponent channels `X`, you may reinforce X or assign `X-1` damage.					
+NAT	Natalie, the Gambler	4	Wildcard	3	P	After the Roll phase when you are the initiator, you may reroll one die.	: 1	Reroll.			
+LUC	Lucille, the Light	3	Creator	2	P	When you Summon a character, reinforce that character for 1.	P	When all of your characters have at least 1 reinforcement each, realize this card's destiny.			
+LLM	Leslie, the Mark	4	Hunter	2	MM : 0	Choose one of an opponent's non-reinforced characters to mark.	P	When a character marked by Leslie uses an ability, the mark is consumed and you gain 1 crystal charge			
+JEN	Jennifer, the Pulse	3	Striker	3	P	Once per turn when an ability you activate deals damage, you may stack a fate.	P	Once per turn when you stack a fate, gain 1 crystal charge.			
+GVE	Genevieve, the Scholar	3	Traveler	3	P	When playing crystallized fates, you may use `X` additional crystal charges to increase the stack level by `X-1`.					
+FTA	Fortuna, the Lucky	5	Deity	2	AAAAA : 2	Break 2 target characters. Any rerolled dice cannot be used for this cost.					
+TNA	Christina, the Prodigy	5	Mystic	4	MM : 0	Assign `X` damage, where `X` is the number of fates in your opponent's fate area.	MM : 1	Reinforce `X`, where `X` is the number of fates in your opponent's fate area.			

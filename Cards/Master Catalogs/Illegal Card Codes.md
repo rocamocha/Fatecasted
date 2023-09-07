@@ -1,0 +1,5 @@
+- `I`; use `1` instead.
+- `O`; use `0` instead.
+- `VV`; visually ambiguous.
+- `NN`, `MM`; visually cluttered.
+- `XXX`; too suggestive.

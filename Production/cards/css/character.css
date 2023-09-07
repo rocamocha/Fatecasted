@@ -1,0 +1,275 @@
+body {
+    margin: 0;
+}
+
+.card {
+    position: relative;
+    font-family: 'eczarregular', sans-serif;
+    width: 70mm;
+    height: 120mm;
+    background-color: transparent;
+}
+
+.gradient-overlay {
+    position: absolute;
+    height: 120mm;
+    width: 70mm;
+    background: linear-gradient(-5deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 20%, rgba(0,0,0,0) 80%, rgba(0,0,0,0.7) 90%);
+    z-index: 0;
+}
+
+img.main {
+    position: absolute;
+    height: 120mm;
+    z-index: -1;
+    -webkit-clip-path: polygon(0% 0%, 70mm 0%, 70mm 120mm, 0% 120mm);
+    clip-path: polygon(0% 0%, 70mm 0%, 70mm 120mm, 0% 120mm);
+}
+
+.title {
+    position: relative;
+    -webkit-clip-path: polygon(0% 0%, 70mm 0%, 70mm 20mm, 0% 20mm);
+    clip-path: polygon(0% 0%, 70mm 0%, 70mm 20mm, 0% 20mm);
+    height: 20mm;
+}
+
+.code {
+    position: absolute;
+    bottom: 0;
+    -webkit-clip-path: polygon(0% 0%, 70mm 0%, 70mm 12mm, 0% 12mm);
+    clip-path: polygon(0% 0%, 70mm 0%, 70mm 12mm, 0% 12mm);
+    height: 12mm;
+    width: 100%;
+}
+
+.type {
+    /* text-transform: lowercase; */
+    transform-origin: top;
+    position: absolute;
+    rotate: -5deg;
+    width: fit-content;
+    height: fit-content;
+    bottom: 1.75mm;
+    right: 1mm;
+    background-color: antiquewhite;
+    color: black;
+    border: 0.5mm black solid;
+
+    padding-left: 1mm;
+    padding-right: 1mm;
+    border-radius: 1mm;
+}
+
+.block {
+    z-index: -1;
+    width: 100%;
+}
+
+.block > h1 {
+    position: fixed;
+    top: 1mm;
+    left: 3mm;
+    font-size: 16pt;
+    font-weight: 500;
+    rotate: -5deg;
+}
+
+.block.top {
+    height: 15mm;
+    top: 0;
+    -webkit-clip-path: polygon(0% 0%, 70mm 0%, 70mm 9mm, 0% 15mm);
+    clip-path: polygon(0% 0%, 70mm 0%, 70mm 9mm, 0% 15mm);
+}
+
+.block.bottom {
+    position: absolute;
+    height: 12mm;
+    bottom: 0;
+    -webkit-clip-path: polygon(0% 6mm, 70mm 0%, 70mm 12mm, 0% 12mm);
+    clip-path: polygon(0% 6mm, 70mm 0%, 70mm 12mm, 0% 12mm);
+}
+
+.block.bottom > p {
+    position: absolute;
+    width: 100%;
+    font-size: 7.5pt;
+    margin: 0;
+    bottom: 0;
+    left: 2mm;
+}
+
+/* card colors (by character type) ----------------------------------------------------------------------------------------- */
+.block.blue { 
+    background-color: cornflowerblue;
+}
+
+.block.red {
+    background-color: rgb(197, 67, 67)
+}
+
+.block.green {
+    background-color: springgreen;
+}
+
+.block.purple {
+    background-color: blueviolet;
+}
+
+.block.yellow {
+    background-color: rgb(214, 169, 54);
+}
+/* ------------------------------------------------------------------------------------------------------------------------- */
+.content {
+    position: absolute;
+    bottom: 10mm;
+    width: 68mm;
+}
+
+.abilities, .breakpoint, .type {
+    margin-left: 1mm;
+    margin-right: 1mm;
+}
+
+.breakpoint {
+    border: 0.5mm black solid;
+    font-size: 14pt;
+    font-weight: 600;
+    rotate: -5deg;
+    padding-left: 2mm;
+    padding-right: 2mm;
+    padding-top: 1mm;
+    padding-bottom: 1mm;
+    width: fit-content;
+    border-radius: 1mm;
+    margin-left: 2mm;
+    background-color: rgba(255, 255, 255, 0.7);
+    /* background-color: rgba(0, 0, 0, 0.7); */
+    line-height: 1.25em;
+    /* border: 0.5mm black solid; */
+    color: black;
+}
+
+.breakpoint > svg {
+    translate: 0 -0.25mm;
+    vertical-align: middle;
+    color: firebrick;
+    fill: firebrick;
+}
+/* ------------------------------------------------------------------------------------------------------------------------- */
+.ability {
+    rotate: -5deg;
+    line-height: 1em;
+    margin: 1mm;
+    font-size: 8.5pt;
+    border-radius: 0.5mm;
+    /* background-color: rgba(250, 235, 215, 0.7); */
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100%;
+}
+
+.ability > p {
+    color: white;
+    margin: 0;
+    padding: 1mm;
+}
+
+.ability > .cost {
+    padding: 1mm;
+    padding-bottom: 0;
+}
+
+.variable-cost {
+    display: inline-block;
+    position: relative;
+    width: fit-content;
+    height: 100%;
+}
+
+.variable-cost > p {
+    margin: 0;
+    color: black;
+    font-size: 6pt;
+    font-weight: 700;
+    position: absolute;
+    vertical-align: middle;
+    top: 0.25mm;
+    width: 100%;
+    text-align: center;
+}
+/* ------------------------------------------------------------------------------------------------------------------------- */
+.destiny {
+    position: absolute;
+    top: -4.3mm;
+    right: 0mm;
+    width: fit-content;
+}
+
+.destiny > .cost {
+    color: white;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-content: center;
+    align-items: center;
+    padding: 1mm;
+}
+
+.destiny > .cost > svg {
+    height: 7mm;
+}
+
+.destiny > .cost > p {
+    font-size: 14pt;
+    margin: 1.6mm 1.5mm 1mm 1mm;
+}
+/* ------------------------------------------------------------------------------------------------------------------------- */
+.cost > svg, .variable-cost > svg, .destiny > svg {
+    height: 3.5mm;
+    color: white;
+    stroke-width: 0.5mm;
+    width: fit-content;
+}
+
+.cost > svg > path {
+    fill: none;
+    stroke: white;
+    stroke-width: 0.5mm;
+    stroke-linejoin: round;
+}
+
+svg.lucide-sparkle > path {
+    stroke: yellow;
+    fill: yellow;
+}
+
+svg.lucide-gem > path {
+    /* stroke: yellow;
+    fill: yellow; */
+    stroke: blueviolet;
+    fill: blueviolet;
+}
+
+svg.lucide-refresh-cw > path {
+    fill: none;
+    stroke: white;
+    stroke-width: 0.5mm;
+}
+
+svg.lucide-swords {
+    fill: rgb(197, 67, 67);
+}
+
+svg.lucide-swords > polyline, svg.lucide-swords > line {
+    color: firebrick;
+}
+
+svg.lucide-flame > path {
+    fill: seagreen;
+    stroke: springgreen;
+}
+
+svg.lucide-shield > path {
+    fill: cornflowerblue;
+    stroke: aqua;
+}

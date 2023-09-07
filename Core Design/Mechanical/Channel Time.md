@@ -1,0 +1,3 @@
+When a crystal charge is gained, it cannot be used on that same turn.
+>[!idea] Tracking...
+>Crystal charges should be represented by a token with a binary indicator such as a coin with two sides, in order to make tracking the state of the crystal charge easier.

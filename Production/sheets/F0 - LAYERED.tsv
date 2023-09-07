@@ -1,0 +1,6 @@
+CODE	TITLE	Lv0	Lv1	Lv2	CRYSTALLIZED	END
+BLNK	Blink	Activate a fate stacked into one of your fatelines as if it were seeded into its own fateline.	That card remains stacked in that fateline.	n/a	Change the seed of 1 of your stacked fatelines to a different card in that fateline.	
+XPLS	Explosion	Assign 2 damage to a single target character.	Assign 1 damage to a single target character adjacent to the first target.	Assign 1 damage to another target character.	Assign 1 damage to a single target character. Assign 1 damage to adjacent characters.	
+L1NK	Link	Your next damage assignment or reinforcement this turn also applies to 1 other target character.	Assign 2 damage or reinforce 2.	n/a	Your next damage assignment, reinforcement or heal this turn also applies to 1 other target character.	
+SHDW	Shadow	Suppress a target character.	That character cannot be assigned damage this turn.	Gain 1 crystal charge with no channel time.	Suppress a target character. That character cannot be assigned damage this turn.	
+TSFR	Transfer	Reassign 2 damage from target allied character to another target character.	Reassign 2 reinforcement from target allied character to another target character.	Target opponent loses 1 crystal charge. You gain 1 crystal charge.	Target opponent loses 1 crystal charge. You gain 1 crystal charge.	

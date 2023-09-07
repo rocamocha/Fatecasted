@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "breakpoint": "number",
+    "type": "text",
+    "rarity": "number",
+    "exported": "checkbox",
+    "status": "multitext"
+  }
+}

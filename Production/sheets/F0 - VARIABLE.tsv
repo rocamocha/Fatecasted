@@ -1,0 +1,7 @@
+CODE	TITLE	EFFECT	CRYSTALLIZED	END
+FCUS	Focus	Gain 1 / 2 / 3 crystal charges. They do not have channel time.	Channel 2.	
+FTFY	Fortify	Reinforce 1 each, for 1 / 2 / 3 characters.	Reinforce 1 each, for 2 characters.	
+HSTE	Haste	When you are the initiator, use 1 / 2 / 3 dice to assign damage, reinforce, or channel. Then, reroll those dice.	Use 2 dice to assign damage, reinforce, or channel. Then, reroll those dice.	
+PRRY	Parry	If target character was assigned damage this turn: <br>- Reassign 1 / 2 / 2 damage from that character. <br>- Reinforce 0 / 1 / 2 to that character.	Stack a fate.	
+RFRS	Refresh	Heal a target character for 1 / 2 / 4.	Heal a target character for 1.	
+RU1N	Ruin	Assign 1 / 3 / 5 damage to a single target.	Assign 2 damage to a single target.	

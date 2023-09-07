@@ -1,0 +1,18 @@
+CODE	TITLE	RARITY	TYPE	BP	REALIZE	COST1	ABILITY1	COST2	ABILITY2	COST3	ABILITY3	END
+ALX	Alexander, the Shield	4	Guardian	5	-	P	The maximum reinforcement for this character is increased to 5.	: 1	Reassign up to 3 damage from a single allied character to this character.	D : 1	Reinforce 3.	
+AMY	Amy, the Eye	4	Mystic	3	-	P	Choose one of your opponent's fatelines. That fateline is revealed as long as this character is unbroken. When you are the initiator, you may pay `X` crystal charge to activate that fateline as if it were your own at stack level `X-1`.					
+AUY	Audrey, the Siren	4	Creator	2	-	P	When you are not the initiator, you may pay 1 crystal charge to trigger a single fateline at the start of the Action phase.	: 3	Stack 2 fates.			
+CAS	Caius, the Heart	5	Protector	3	-	AA : 2	Assign 5 damage between targets of your choice.					
+CYL	Cheryl, the Thief	3	Trickster	3	-	P	When you are able to respond during the action phase, you may use basic dice actions.	AA : 2	Choose a target character. Assign 2 damage to that character; assign 1 damage to each of the characters adjacent to that character.			
+CHA	Zeta, the Chaos	5	Deity	1	Gain max crystal charge with no channel time; unbreak this character.	P	You cannot use basic actions. When you are the initiator, you must declare an ability usage with this character during the Action phase if able.	: 1	Assign 2 damage.	: 2	Reinforce 2.	
+WLT	Wilt, the Usurper	5	Deity	4	-	P	When this character is broken, remove all reinforcement from a target character. Gain that many crystal charges.					
+MCH	Sidney, the Merchant	5	Traveler	5	-	P	During the fate phase: - As the initiator, you may stack an additional fate during your stack. - As a non-initiator, you may stack a single fate during your seed.					
+SAM	Samantha, the Virtuoso	3	Aegis	2	-	AAM : 0	Assign `X` damage where `X` is the total reinforcement of allied characters.					
+REN	Ren, the Enigma	3	Striker	3	-	P	When the opponent channels `X`, gain `X` crystal charge.					
+NAT	Natalie, the Gambler	4	Wildcard	3	-	P	After the Roll phase, you may reroll up to 2 dice.	: 1	Target player rerolls.			
+LUC	Lucille, the Light	3	Creator	2	-	P	All of your characters' max reinforcement is increased to 5.					
+LLM	Leslie, the Mark	4	Hunter	2	-	MM : 0	Choose one of an opponent's non-reinforced characters to mark.	: 1	Remove all reinforcement from a character marked by Leslie.	P	When a character marked by Leslie uses an ability, the mark is consumed and you gain 1 crystal charge.	
+JEN	Jennifer, the Pulse	3	Striker	3	-	P	Once per turn when an ability you activate deals damage, you may stack or seed a fate.	P	Once per turn when you stack or seed a fate, gain 1 crystal charge.			
+GVE	Genevieve, the Scholar	3	Traveler	3	-	P	When playing crystallized fates, you may use `X` additional crystal charges to increase the stack level by `X-1`.	P	After the Roll phase, gain 1 crystal charge.			
+FTA	Fortuna, the Lucky	5	Deity	2	-	AAAAA : 2	Break 2 target characters.					
+TNA	Christina, the Prodigy	5	Mystic	4	-	AA : 0	Assign `X` damage, where `X` is the number of crystal charges in your possession.	MM : 1	Reinforce `X`, where `X` is the number of fates in your fate area.			

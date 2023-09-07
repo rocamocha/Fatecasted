@@ -1,0 +1,1 @@
+When a [[Fate Cards|fate]] already in a [[Fatelines|fateline]] is [[Fate Stacking|stacked]] or [[Fate Seeding|seeded]] into a different fateline, and there are other cards in that fateline; those other cards remain in the fateline with the card played *least* recently becoming the new seed.

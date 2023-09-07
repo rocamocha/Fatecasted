@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'eczarmedium';
+    src: url('Eczar-Medium-webfont.eot');
+    src: url('Eczar-Medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Eczar-Medium-webfont.woff2') format('woff2'),
+         url('Eczar-Medium-webfont.woff') format('woff'),
+         url('Eczar-Medium-webfont.ttf') format('truetype'),
+         url('Eczar-Medium-webfont.svg#eczarmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

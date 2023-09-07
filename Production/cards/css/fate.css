@@ -1,0 +1,186 @@
+/* READ ME 
+this is the master stylesheet for fate cards, used by the markdown generator
+
+abbreviation key:
+ff --> fixed fate
+fv --> variable fate
+fl --> layered fate
+
+ */
+
+/* ---------------------------------------------------------------- */
+/* ---------------------------------------------------------------- */
+/* ---------------------------------------------------------------- */
+
+ body {
+    margin: 0;
+}
+
+.card {
+    position: relative;
+    font-family: 'eczarregular', sans-serif;
+    width: 70mm;
+    height: 120mm;
+    background-color: transparent;
+}
+
+.gradient-overlay {
+    position: absolute;
+    height: 120mm;
+    width: 70mm;
+    background: linear-gradient(-5deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 20%, rgba(0,0,0,0) 80%, rgba(0,0,0,0.7) 90%);
+    z-index: 0;
+}
+
+img.main {
+    position: absolute;
+    height: 120mm;
+    z-index: -1;
+    -webkit-clip-path: polygon(0% 0%, 70mm 0%, 70mm 120mm, 0% 120mm);
+    clip-path: polygon(0% 0%, 70mm 0%, 70mm 120mm, 0% 120mm);
+}
+
+.title {
+    position: relative;
+    -webkit-clip-path: polygon(0% 0%, 70mm 0%, 70mm 20mm, 0% 20mm);
+    clip-path: polygon(0% 0%, 70mm 0%, 70mm 20mm, 0% 20mm);
+    height: 20mm;
+    color: khaki;
+}
+
+.code {
+    position: absolute;
+    bottom: 0;
+    -webkit-clip-path: polygon(0% 0%, 70mm 0%, 70mm 12mm, 0% 12mm);
+    clip-path: polygon(0% 0%, 70mm 0%, 70mm 12mm, 0% 12mm);
+    height: 12mm;
+    width: 100%;
+    color: khaki;
+}
+
+.type {
+    /* text-transform: lowercase; */
+    transform-origin: top;
+    position: absolute;
+    rotate: -5deg;
+    width: fit-content;
+    height: fit-content;
+    bottom: 1.75mm;
+    right: 1mm;
+    background-color: antiquewhite;
+    color: black;
+    border: 0.5mm black solid;
+
+    padding-left: 1mm;
+    padding-right: 1mm;
+    border-radius: 1mm;
+}
+
+/* ---------------------------------------------------------------- */
+/* ---------------------------------------------------------------- */
+/* ---------------------------------------------------------------- */
+
+.block {
+    z-index: -1;
+    width: 100%;
+    background-color: rgb(39, 39, 39);
+}
+
+.block > h1 {
+    position: fixed;
+    top: 1mm;
+    left: 3mm;
+    font-size: 16pt;
+    font-weight: 500;
+    rotate: -5deg;
+}
+
+.block.top {
+    height: 15mm;
+    top: 0;
+    -webkit-clip-path: polygon(0% 0%, 70mm 0%, 70mm 9mm, 0% 15mm);
+    clip-path: polygon(0% 0%, 70mm 0%, 70mm 9mm, 0% 15mm);
+}
+
+.block.bottom {
+    position: absolute;
+    height: 12mm;
+    bottom: 0;
+    -webkit-clip-path: polygon(0% 6mm, 70mm 0%, 70mm 12mm, 0% 12mm);
+    clip-path: polygon(0% 6mm, 70mm 0%, 70mm 12mm, 0% 12mm);
+}
+
+.block.bottom > p {
+    position: absolute;
+    width: 100%;
+    font-size: 7.5pt;
+    margin: 0;
+    bottom: 0;
+    left: 2mm;
+}
+
+/* ---------------------------------------------------------------- */
+/* ---------------------------------------------------------------- */
+/* ---------------------------------------------------------------- */
+.content {
+    position: absolute;
+    bottom: 10mm;
+    width: 68mm;
+}
+
+.effects, .type {
+    margin-left: 1mm;
+    margin-right: 1mm;
+}
+
+.effect {
+    rotate: -5deg;
+    line-height: 1em;
+    margin: 1mm;
+    font-size: 8.5pt;
+    border-radius: 0.5mm;
+    /* background-color: rgba(250, 235, 215, 0.7); */
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100%;
+}
+
+.effect > .level {
+    color: khaki;
+    font-weight: 700;
+    text-align: right;
+    padding: 1mm;
+}
+
+.effect > p {
+    color: white;
+    margin: 0;
+    padding: 1mm;
+}
+
+.effect > .crystallized {
+    padding: 1mm;
+    padding-bottom: 0;
+    color: khaki;
+    font-size: 7pt;
+    font-weight: 500;
+    vertical-align: middle;
+    text-align: right;
+}
+
+/* ---------------------------------------------------------------- */
+/* ---------------------------------------------------------------- */
+/* ---------------------------------------------------------------- */
+.crystallized > svg {
+    height: 3.5mm;
+    color: white;
+    stroke-width: 0.5mm;
+    width: fit-content;
+}
+
+
+svg.lucide-gem > path {
+    /* stroke: yellow;
+    fill: yellow; */
+    stroke: blueviolet;
+    /* fill: blueviolet; */
+}
