@@ -34,6 +34,10 @@ views:
       - type
       - status
     sort:
+      - property: catalog
+        direction: ASC
+      - property: code
+        direction: DESC
       - property: status
         direction: ASC
     columnSize:

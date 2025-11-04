@@ -4,7 +4,7 @@ tags:
   - card
   - character/card
 catalog: Nature
-code:
+code: C2-DRK
 type:
 rarity:
 breakpoint:

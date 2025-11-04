@@ -4,7 +4,7 @@ tags:
   - card
   - character/card
 catalog: Nature
-code:
+code: C2-PPR
 type:
 rarity:
 breakpoint:
