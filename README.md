@@ -52,9 +52,9 @@ The fate of Fatecasted is in the hands of its players. We invite you to join us 
 
 Fatecasted is a dual-licensed project. We believe this approach best serves the community and protects the project's goals.
 
-- **Code:** All software, including build scripts and tools, is licensed under the [MIT License](LICENSE-CODE.md). This allows for broad use and modification of the project's tooling.
-- **Content:** All creative assets, including game rules, card text, and lore, are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE-ASSETS.md). This encourages community creation and sharing while protecting the game's commercial integrity.
+- **Code:** All software, including build scripts and tools, is licensed under the [MIT License](_licensing/LICENSE-CODE.md). This allows for broad use and modification of the project's tooling.
+- **Content:** All creative assets, including game rules, card text, and lore, are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](_licensing/LICENSE-ASSETS.md). This encourages community creation and sharing while protecting the game's commercial integrity.
 
-Please see our [Contributing](CONTRIBUTING.md) file for more details on how to get involved.
+Please see our [Contributing](_licensing/CONTRIBUTING.md) file for more details on how to get involved.
 
 # For the best experience browsing this repository, we recommend using [Obsidian](https://obsidian.md/), and installing the Dataview plugin.
