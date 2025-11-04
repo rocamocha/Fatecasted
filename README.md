@@ -58,3 +58,5 @@ Fatecasted is a dual-licensed project. We believe this approach best serves the 
 Please see our [Contributing](_licensing/CONTRIBUTING.md) file for more details on how to get involved.
 
 # For the best experience browsing this repository, we recommend using [Obsidian](https://obsidian.md/), and installing the Dataview plugin.
+
+## To try the production tooling for generating card images, see the [Production Tooling](Production/README.md) document.
